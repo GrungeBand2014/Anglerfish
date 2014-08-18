@@ -1,4 +1,4 @@
-package GrungeBand2014.Anglerfish.Entities {
+package grungeband2014.anglerfish.entities {
 import net.flashpunk.Entity;
 import net.flashpunk.graphics.Image;
 import net.flashpunk.utils.Input;
